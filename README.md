@@ -1,3 +1,7 @@
+# 用途
+折线图数据前端显示
+
+
 # scatterplot
 
 ## Project setup
@@ -18,5 +22,3 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# 用途
-折线图数据前端显示
